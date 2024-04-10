@@ -1,5 +1,5 @@
 # 
-# Bibliotēkas uzskaites sistēma
+# Bibliotēkas uzskaites sistēmas
 #
 # Atrodiet 5 kļūdas un izlabojiet tos
 # 2 - sintaksiskas kļūdas (SyntaxError)
