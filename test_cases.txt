@@ -7,17 +7,35 @@ piem. Zinot ka kurss ir 1.0831, padodot 10 eur, rezultāts būs 10.83 usd
 
 2 veiksmīgi scenāriji (happy path):
 
+(1) izvelot choice = 2, rezultats bus: 1. Making Sense of Java (180 pages)
+2. Object Technology Centers of Excellence (200 pages)
+3. Comprehensive Networking Glossary and Acronym Guide (208 pages)
+4. Implementing PeopleSoft Financials (220 pages)
+5. Practical Methods for Your Year 2000 Problem (236 pages)
+6. SOA Patterns (250 pages)
+7. Hello! Flex 4 (258 pages)
+8. Technology Paradise Lost (260 pages)
+9. Flex on Java (265 pages)
+10. Client/Server Yellow Pages (280 pages)
 
+(2) nezinot gramatas pilnu nosaukumu, ievadam flex, rezultats bus: 1933988797 - Flex on Java by Bernerd Allmon, Jeremy Anderson;
+1933988762 - Hello! Flex 4 by Peter Armstrong
 
 5 izmantošanas scenāriji (use-case):
-
+(1) var atrast konkretu gramatu biblioteka
+(2) var atrast savas milakas gramatas autoru
+(3) var atrast visgarako gramatu
+(4) var atrast visisko gramatu
+(5) var pievienot bibliotekā savu gramatu
 
 
 
 
 
 5 robežas scenāriji (edge-case):
-
+(1) nedrikst izvelet choice = 8
+(2) nedrikst rakstit burtus tuy kur vajag rakstit ciparus
+(3) nedrikst ievadit isbn kas neeksiste
 
 
 
